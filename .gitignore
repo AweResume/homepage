@@ -1,0 +1,6 @@
+.idea
+/.idea
+node_modules
+/app/css/main.css
+/_windows/
+/gulpfile.js
