@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19d82500-6a1a-4171-ae73-6df539303ede" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap/bootstrap-grid.min.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/animate/animate-css.js" afterPath="$PROJECT_DIR$/libs/animate/animate-css.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/animate/animate.min.css" afterPath="$PROJECT_DIR$/libs/animate/animate.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/libs/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/libs/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/html5shiv/es5-shim.min.js" afterPath="$PROJECT_DIR$/libs/html5shiv/es5-shim.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/html5shiv/html5shiv-printshiv.min.js" afterPath="$PROJECT_DIR$/libs/html5shiv/html5shiv-printshiv.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/jqBootstrapValidation/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/libs/jqBootstrapValidation/jqBootstrapValidation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/jquery/jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/libs/jquery/jquery-2.1.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/linea/fonts/linea-basic-10.svg" afterPath="$PROJECT_DIR$/libs/linea/fonts/linea-basic-10.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/linea/styles.css" afterPath="$PROJECT_DIR$/libs/linea/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/magnific-popup/jquery.magnific-popup.min.js" afterPath="$PROJECT_DIR$/libs/magnific-popup/jquery.magnific-popup.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/magnific-popup/magnific-popup.css" afterPath="$PROJECT_DIR$/libs/magnific-popup/magnific-popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/mixitup/mixitup.min.js" afterPath="$PROJECT_DIR$/libs/mixitup/mixitup.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/parallax/parallax.min.js" afterPath="$PROJECT_DIR$/libs/parallax/parallax.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/respond/respond.min.js" afterPath="$PROJECT_DIR$/libs/respond/respond.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/waypoints/waypoints.min.js" afterPath="$PROJECT_DIR$/libs/waypoints/waypoints.min.js" />
-    </list>
+    <list default="true" id="19d82500-6a1a-4171-ae73-6df539303ede" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +15,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="225" column="40" lean-forward="true" selection-start-line="225" selection-start-column="40" selection-end-line="225" selection-end-column="40" />
+            <state relative-caret-position="552">
+              <caret line="261" column="10" lean-forward="false" selection-start-line="261" selection-start-column="10" selection-end-line="261" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -237,12 +219,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525698660166</updated>
       <workItem from="1525698663965" duration="1292000" />
-      <workItem from="1525702266522" duration="3471000" />
+      <workItem from="1525702266522" duration="4478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4763000" />
+    <option name="totallyTimeSpent" value="5770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-603" width="1936" height="1066" extended-state="6" />
@@ -307,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="225" column="40" lean-forward="true" selection-start-line="225" selection-start-column="40" selection-end-line="225" selection-end-column="40" />
+        <state relative-caret-position="552">
+          <caret line="261" column="10" lean-forward="false" selection-start-line="261" selection-start-column="10" selection-end-line="261" selection-end-column="10" />
           <folding />
         </state>
       </provider>
